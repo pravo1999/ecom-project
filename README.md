@@ -70,7 +70,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 <h2>Project related Posts</h2>
+<h4>Home Page </h4>
 <img src="MultiShop-Online-Shop-Website-Template.png"><br>
+<h4>Contact Page</h4>
 <img src="contact.png"><br>
+<h4>Cart Page</h4>
 <img src="cart1.png"><br>
 
